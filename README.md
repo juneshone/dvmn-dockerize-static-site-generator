@@ -1,0 +1,1 @@
+# dvmn-dockerize-static-site-generator
